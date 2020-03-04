@@ -1,0 +1,10 @@
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/QA_Automation_Benchmark_Appium.iml
+/.idea/workspace.xml
+/appium_tests/__pycache__/HelperClass.cpython-37.pyc
+/proj_lib/__pycache__/__init__.cpython-37.pyc
+/proj_lib/__pycache__/BaseLayer.cpython-37.pyc
+/proj_lib/__pycache__/Element.cpython-37.pyc
+/proj_lib/__pycache__/SetupTeardown.cpython-37.pyc

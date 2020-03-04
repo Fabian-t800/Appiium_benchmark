@@ -1,0 +1,14 @@
+--test Sum two numbers
+--test Divide two numbers
+--test Multiply two numbers
+--test Subtract two numbers
+--test Multiply four numbers
+--test Calculate the log of a number
+--test Read the number pi
+--test Bring number to the 2nd power
+--test Calculate the sin of a number
+--test Convert Celsius to Fahrenheit
+--timestampoutputs
+#--loglevel Debug
+--log benchmark_appium_testlogs.html
+--outputdir D:\QA_Automation_Benchmark_Appium\reports_alpha
